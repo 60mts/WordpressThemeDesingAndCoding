@@ -1,0 +1,19 @@
+/*
+
+Theme Name:MTS
+Desription:mts tarafından geliştirilen bir temadır
+Theme URI:""
+
+
+*/
+
+img{
+    
+    opacity:30%;
+    transition: 1s all;
+}
+img:hover{
+     
+    opacity:100%;
+
+}
