@@ -31,49 +31,36 @@
   <div class="container">
     <div class="row row-cols-auto">
       <div class="col">
-        <h5> <b>ARŞİV</b></h5>
+        <h5><i class="bi bi-sort-numeric-down-alt"> </i><b>ARŞİV</b></h5>
         <hr>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
+        <p> <?php bloginfo("") ?></p>
+        
       </div>
       <div class="col">
-        <h5>  <b>YAZILAR</b></h5>
+        <h5> <i class="bi bi-text-center"> </i> <b>YAZILAR</b></h5>
         <hr>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
+        <p> <?php bloginfo("") ?> </p>
+      
       </div>
       <div class="col">
         <h5> <i class="bi bi-info"></i><b>BLOG HAKKINDA</b></h5>
         <hr>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
-        <p> <?php bloginfo('slogan'); ?> </p>
+     <p> <?php bloginfo("") ?> </p>
+     
       </div>
-      <!-- <div class="col-lg-5" style="">
+     <!-- <div class="col-lg-5" style="">
         <div id="ic" style=" height:400px;  background-color:white; color:black;">
           <div align="center" style="background-color:#F2F2F0; height:50px; padding:10px; color:red;"> <i class="bi bi-pin"></i> SPONSORED </div>
           <div id="markalar" style="padding:20px;">
-       <iframe width="150" height="200" autoPlay="true" src="https://www.youtube.com/embed/1vJsy0LuS-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-            <!-- <img src="http://localhost/wordpress/wp-content/uploads/2022/02/baykar.jpg" style="width:150px; height:150px;">
+            <img src="http://localhost/wordpress/wp-content/uploads/2022/02/baykar.jpg" style="width:150px; height:150px;">
             <img src="http://localhost/wordpress/wp-content/uploads/2022/02/Koc.png" style="width:100px; height:50px;">
             <img src="http://localhost/wordpress/wp-content/uploads/2022/02/natro-logo-alt.png" style="width:100px; height:50px;">
-            <img src="http://localhost/wordpress/wp-content/uploads/2022/02/getir.png" style="width:100px; height:50px;">
-          </div> -->
-          <!-- <div align="center" style="background-color:#F2F2F0; height:50px; padding:10px; color:#707070;"> <i class="bi bi-pin"></i> Bilgisayar Parça Tedarikcisi </div>
-          <img src="http://localhost/wordpress/wp-content/uploads/2022/02/msi.png" style="width:100px; height:100px; ">
-        </div> -->
-      </div>
+            <img src="http://localhost/wordpress/wp-content/uploads/2022/02/getir.png" style="width:100px; height:50px;"> -->
+          <!-- </div>
+         <div align="center" style="background-color:#F2F2F0; height:50px; padding:10px; color:#707070;"> <i class="bi bi-pin"></i> Bilgisayar Parça Tedarikcisi </div> -->
+          <!-- <img src="http://localhost/wordpress/wp-content/uploads/2022/02/msi.png" style="width:100px; height:100px; "> -->
+        <!-- </div>
+      </div> -->
      
     </div>
   </div>

@@ -6,14 +6,3 @@ Theme URI:""
 
 
 */
-
-img{
-    
-    opacity:30%;
-    transition: 1s all;
-}
-img:hover{
-     
-    opacity:100%;
-
-}

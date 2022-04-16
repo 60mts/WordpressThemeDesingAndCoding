@@ -1,0 +1,49 @@
+img {
+
+    opacity: 30%;
+    transition: 1s all;
+}
+
+img:hover {
+
+    opacity: 100%;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+#ust>p {
+
+    padding: 5px;
+
+}
+#imgs > img {
+
+    opacity: 30%;
+    transition: 1s all;
+}
+
+#imgs> img:hover {
+
+    opacity: 100%;
+}
+#centerSearch{
+    display:inline-flex;
+    position:relative;
+    margin-top:100px;
+   left:450px;
+   top:50px;
+}
+header{
+    font-style: bold;
+}
+header > ul,li,ol {
+ padding-left:10px;
+}
+header ol{
+
+    display:none;
+
+}
